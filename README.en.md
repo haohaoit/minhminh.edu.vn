@@ -1,5 +1,11 @@
 # MinhMinh AI Templates — minhminh.edu.vn
 
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fminhminh.edu.vn&label=minhminh.edu.vn)](https://minhminh.edu.vn)
+[![Repo Library](https://img.shields.io/badge/Repo%20Library-16.5k%20repo%20%C2%B7%2062%20fields-d97757)](https://minhminh.edu.vn/repos)
+[![Prompt Library](https://img.shields.io/badge/Prompt%20Library-4.7k%20prompt%20%C2%B7%2029%20fields-d97757)](https://minhminh.edu.vn/prompts)
+![Updated](https://img.shields.io/badge/updated-weekly-4ade80)
+[![GitHub stars](https://img.shields.io/github/stars/haohaoit/minhminh.edu.vn?style=social)](https://github.com/haohaoit/minhminh.edu.vn/stargazers)
+
 [Tiếng Việt](README.md) · **English**
 
 A free AI resource hub in Vietnamese: ready-to-use templates for Claude Code, more than 16,000 open-source GitHub projects in 62 fields, and nearly 4,700 ready-to-paste prompts for Claude and ChatGPT, close to 1,500 of them written for people in Vietnam.
@@ -71,6 +77,10 @@ minhminh.edu.vn is built on these open projects. Thank you to their authors:
 - The Repo Library lists projects found on GitHub; each project belongs to its authors and keeps its own licence.
 
 Vietnamese text on the site is machine-translated with Claude and may contain mistakes. Feedback is welcome at **admin@minhminh.edu.vn**.
+
+---
+
+⭐ **Find it useful?** Click **Star** at the top of this repo so more people discover minhminh.edu.vn. Thank you!
 
 ---
 

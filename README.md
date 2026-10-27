@@ -1,5 +1,11 @@
 # MinhMinh AI Templates — minhminh.edu.vn
 
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fminhminh.edu.vn&label=minhminh.edu.vn)](https://minhminh.edu.vn)
+[![Kho Repo](https://img.shields.io/badge/Kho%20Repo-16.5k%20repo%20%C2%B7%2062%20l%C4%A9nh%20v%E1%BB%B1c-d97757)](https://minhminh.edu.vn/repos)
+[![Kho Prompt](https://img.shields.io/badge/Kho%20Prompt-4.7k%20prompt%20%C2%B7%2029%20ngh%E1%BB%81-d97757)](https://minhminh.edu.vn/prompts)
+![Cập nhật](https://img.shields.io/badge/c%E1%BA%ADp%20nh%E1%BA%ADt-h%C3%A0ng%20tu%E1%BA%A7n-4ade80)
+[![GitHub stars](https://img.shields.io/github/stars/haohaoit/minhminh.edu.vn?style=social)](https://github.com/haohaoit/minhminh.edu.vn/stargazers)
+
 **Tiếng Việt** · [English](README.en.md)
 
 Kho tài nguyên AI miễn phí bằng tiếng Việt: mẫu dùng sẵn cho Claude Code, hơn 16.000 dự án mã nguồn mở trên GitHub theo 62 lĩnh vực, và gần 4.700 prompt dùng ngay cho Claude và ChatGPT, trong đó gần 1.500 prompt soạn riêng cho người Việt.
@@ -71,6 +77,10 @@ minhminh.edu.vn được xây dựa trên các dự án mở sau. Xin cảm ơn 
 - Danh sách dự án trong Kho Repo lấy từ GitHub; mỗi dự án thuộc về tác giả của nó và theo giấy phép riêng của dự án đó.
 
 Phần tiếng Việt trên web được dịch máy bằng Claude và có thể còn sai sót. Góp ý xin gửi về **admin@minhminh.edu.vn**.
+
+---
+
+⭐ **Thấy hữu ích?** Bấm **Star** ở góc trên repo này để nhiều người biết đến minhminh.edu.vn hơn. Cảm ơn anh chị!
 
 ---
 

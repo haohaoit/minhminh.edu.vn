@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<title>Social preview</title>
+<style>
+  * { box-sizing: border-box; margin: 0; }
+  html, body { width: 1280px; height: 640px; overflow: hidden; }
+  body {
+    background: radial-gradient(circle at 85% 20%, #2a1a14 0, #13151b 55%);
+    color: #e8e6e3; font-family: "Segoe UI", system-ui, sans-serif; position: relative;
+  }
+  .shot {
+    position: absolute; right: -120px; top: 70px; width: 720px; border-radius: 14px;
+    border: 1px solid #3a3d47; box-shadow: 0 30px 80px rgba(0,0,0,.6);
+    transform: perspective(1400px) rotateY(-14deg) rotateX(4deg); opacity: .92;
+  }
+  .fade { position: absolute; inset: 0; background: linear-gradient(90deg, #13151b 44%, rgba(19,21,27,.85) 58%, rgba(19,21,27,0) 80%); }
+  .text { position: absolute; left: 72px; top: 64px; width: 640px; }
+  .brand { font: 700 24px Consolas, monospace; color: #d97757; letter-spacing: .5px; display: flex; align-items: center; gap: 12px; }
+  .brand i { display: inline-grid; place-items: center; width: 40px; height: 40px; border-radius: 9px; border: 2px solid #d97757; font-style: normal; font-size: 18px; }
+  h1 { font-size: 64px; line-height: 1.05; font-weight: 800; margin-top: 26px; letter-spacing: -1px; }
+  h1 span { color: #d97757; }
+  .sub { font-size: 24px; color: #b5b2ad; margin-top: 16px; line-height: 1.35; }
+  .stats { display: flex; gap: 14px; margin-top: 34px; }
+  .stat { border: 1px solid #343743; background: rgba(28,30,38,.9); border-radius: 12px; padding: 14px 18px; min-width: 180px; }
+  .stat b { display: block; font: 700 32px Consolas, monospace; color: #fff; }
+  .stat span { font-size: 16px; color: #9a978f; }
+  .url { position: absolute; left: 72px; bottom: 50px; font: 600 26px Consolas, monospace; color: #e8e6e3; }
+  .url::before { content: "🌐 "; }
+  .free { position: absolute; left: 400px; bottom: 50px; font-size: 18px; color: #4ade80; border: 1px solid #2f6b45; border-radius: 999px; padding: 4px 14px; }
+</style>
+</head>
+<body>
+  <img class="shot" src="images/home.jpg" alt="">
+  <div class="fade"></div>
+  <div class="text">
+    <div class="brand"><i>&gt;_</i>MinhMinh AI Templates</div>
+    <h1>Kho tài nguyên AI<br><span>bằng tiếng Việt</span></h1>
+    <p class="sub">Mẫu Claude Code, repo mã nguồn mở và prompt<br>dùng ngay cho mọi ngành nghề</p>
+    <div class="stats">
+      <div class="stat"><b>1.900+</b><span>mẫu Claude Code</span></div>
+      <div class="stat"><b>16.000+</b><span>repo · 62 lĩnh vực</span></div>
+      <div class="stat"><b>4.700</b><span>prompt · 29 nghề</span></div>
+    </div>
+  </div>
+  <div class="url">minhminh.edu.vn</div>
+  <div class="free">Miễn phí · không cần đăng ký</div>
+</body>
+</html>
